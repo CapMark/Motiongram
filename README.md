@@ -37,6 +37,4 @@ Master (ESP32-WROOM-32) and slave (ESP32-CAM) communicate via [ESP-NOW](https://
    String CHAT_ID = "XXXXXXXXXX";
    ```
 
-   ## Authors
-   - Alessandro Ricchetti -> [Aless-FG](https://github.com/Aless-FG)
-   - Marco Cappiello -> [marcocapp](https://github.com/marcocapp)
+
